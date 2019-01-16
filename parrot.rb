@@ -7,4 +7,4 @@ def parrot(reply = "Squawk!")
   return reply
 end
 
-parrot("hello!")
+parrot
