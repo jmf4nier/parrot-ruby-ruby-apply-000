@@ -4,7 +4,7 @@
 
 def parrot(reply = "Squawk!")
   puts reply
-  return reply
+  
 end
 
 parrot
